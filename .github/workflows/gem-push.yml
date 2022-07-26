@@ -1,4 +1,4 @@
-{ 
+{ run
    "name": "setup-ruby", 
    "version": "0.1.0", 
    "description": "Download a prebuilt Ruby and add it to the PATH in 5 seconds", 
